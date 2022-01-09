@@ -25,11 +25,11 @@ The major feature of the Project Title will be the following: -
 o	Natural Language Processing – The question will take query process it extracts keywords from query string using NLP
 o	Information Extraction – There will be a database containing all the information needed, populated using information extraction technique.
 
-# 2.3 Libraries
-Python Libraries - PyPdf2, PdfMiner, Spacy, HuggingFace, En-Core-Med7-Lg and Pandas.
-
-# 2.4 Technical stacks
+# 2.3 Technical stacks
  ![image](https://user-images.githubusercontent.com/88075268/148672523-445b39aa-a2e4-44a3-81aa-f9e85374f443.png)
+ 
+# 2.4 Libraries
+Python Libraries - PyPdf2, PdfMiner, Spacy, HuggingFace, En-Core-Med7-Lg and Pandas.
 
 # 3.1 Architecture Diagram
 ![image](https://user-images.githubusercontent.com/88075268/148671842-6bf524a0-9064-4bdd-bff4-fd0fde937a9b.png)
