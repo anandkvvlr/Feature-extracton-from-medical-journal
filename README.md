@@ -12,6 +12,10 @@ The Project aims to Feature Extraction from Medical Journals.
 
 Feature Extraction is manually a complex task/execution. Hence Named Entity Recognition technique helps to abridge such difficulty in order to understand different types of Drug compositions and dosage and also their strength in the medical fields. Also, it helps to reduce further harm to people with different health conditions depending on what type of disease the person suffers.
 
+# 1.3 Document Organization
+This document is organized into the following section:
+![table](https://user-images.githubusercontent.com/88075268/148672358-ef30c848-61ec-4fe4-b83c-6e30d369b1d5.png)
+
 # 2.1	Context
 The evolving tech industry serves the business needs. The first key area for a business to grow is to identify the need or demands of the user.
 Using NLP helps in Extraction of Named Entities from Medical Journals.
