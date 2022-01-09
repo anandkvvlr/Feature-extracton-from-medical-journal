@@ -6,3 +6,5 @@ The purpose of this document is to outline the high-level design of the Feature 
 
 Its main purpose is to –
 ●	Recommend relevant: Extraction of medical terms from given medical journals.
+
+# 1.2 Scope
